@@ -2,9 +2,10 @@
 layout: post
 comments: true
 title: Business Idea
+menu: public
 description: Initial business idea and motivations, with related research on starting a home business.
 date:   2018-03-08 23:59:00 -0800
-categories:
+categories: 
 ---
 
 Original Patreon post: [About Me and Business Plan](https://www.patreon.com/posts/about-me-and-17450390)
